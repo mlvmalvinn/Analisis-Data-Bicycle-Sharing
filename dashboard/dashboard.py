@@ -8,7 +8,7 @@ import streamlit as st
 sns.set(style='darkgrid')
 
 # Menyiapkan data day_df
-day_df = pd.read_csv("day.csv")
+day_df = pd.read_csv("/dashboard/day.csv")
 day_df.head()
 
 # Menghapus kolom tidak perlu
