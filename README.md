@@ -40,7 +40,11 @@ conda activate main-ds
 pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 
 ## Run steamlit app
-streamlit run dashboard.py
+-Clone This repository as zip then unzip it
+-Go to the dashboard folder then right click the empty space or the folder itself to then open it with a code editor
+-Run it and use the command:
+-streamlit run dashboard.py
+(don't forget to install all the neccesary libraries)
 
 ## Screenshots of the dashboard
 ![Dashboard1](https://github.com/mlvmalvinn/dump/blob/main/Dashboard1.jpeg?raw=true)
