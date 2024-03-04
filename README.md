@@ -44,4 +44,5 @@ streamlit run dashboard.py
 
 ## Screenshots of the dashboard
 ![Dashboard1](https://github.com/mlvmalvinn/dump/blob/main/Dashboard1.jpeg?raw=true)
+![Dashboard1](https://github.com/mlvmalvinn/dump/blob/main/Dashboard2.jpeg?raw=true)
 
