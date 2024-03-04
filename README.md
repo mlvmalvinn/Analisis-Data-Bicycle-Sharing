@@ -42,3 +42,6 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ## Run steamlit app
 streamlit run dashboard.py
 
+## Screenshots of the dashboard
+![Dashboard1](https://github.com/mlvmalvinn/dump/blob/main/Dashboard1.jpeg?raw=true)
+
