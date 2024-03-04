@@ -1,5 +1,4 @@
-Required Packages:
--matplotlib
--pandas
--seaborn
--streamlit
+matplotlib
+pandas
+seaborn
+streamlit
