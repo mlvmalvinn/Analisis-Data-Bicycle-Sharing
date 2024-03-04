@@ -36,6 +36,7 @@ Dashboard is made using "streamlit" that allows me to create simple web apps lik
 ## Setup environment
 conda create --name main-ds python=3.9
 conda activate main-ds
+
 pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 
 ## Run steamlit app
