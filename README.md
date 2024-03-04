@@ -15,7 +15,8 @@ Dashboard is made using "streamlit" that allows me to create simple web apps lik
 |   └── hour.csv
 ├── README.md
 ├── notebook.ipynb
-└── requirements.txt
+├── requirements.txt
+└── url.txt
 ```
 
 ## Project cycle
