@@ -1,7 +1,7 @@
 # Analisis-Data-Bicycle-Sharing
 Hello, this project is part of Dicoding final test to pass "Belajar Analisis Dengan Python" course, this course's final project is to make a simple web app of a dashboard that displays information graph from selected csv file, and then use said file to do data analysis ranging from Data Wrangling, Exloratory Data Analysis and Data visualization (dashboard).
 
-Dashboard is made using "streamlit" that allows me to create simple web apps like the one on the dashboard directory named "dashboard.py", it reads data only from "day.csv" file to function where it's supplied within the folder, you can access the streamlit dashboard Here([link](https://mlvmalvinnbicyclesharing.streamlit.app/))
+Dashboard is made using "streamlit" that allows me to create simple web apps like the one on the dashboard directory named "dashboard.py", it reads data only from "day.csv" file to function where it's supplied within the folder, you can access the streamlit dashboard Here: ([link](https://mlvmalvinnbicyclesharing.streamlit.app/))
 
 ## File Structures
 ```
