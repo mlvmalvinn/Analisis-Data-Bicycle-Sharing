@@ -41,9 +41,12 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 
 ## Run steamlit app
 -Clone This repository as zip then unzip it
+
 -Go to the dashboard folder then right click the empty space or the folder itself to then open it with a code editor
+
 -Run it and use the command:
--streamlit run dashboard.py
+streamlit run dashboard.py
+
 (don't forget to install all the neccesary libraries)
 
 ## Screenshots of the dashboard
